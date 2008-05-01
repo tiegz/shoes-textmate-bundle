@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Shoes.app :width =&gt; ${1:400}, :height =&gt; ${2:400} do
+  background ${3:white}
+  border ${4:black}, :strokewidth =&gt; ${5:4}
+
+  $0
+end
+</string>
+	<key>name</key>
+	<string>New App</string>
+	<key>uuid</key>
+	<string>D5A28F94-8FD5-4248-8BFC-E4A8C18CF54A</string>
+</dict>
+</plist>

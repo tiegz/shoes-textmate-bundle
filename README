@@ -1,0 +1,6 @@
+(Shoes Bundle for Texmate).based_on "The Entirety of THE SHOES FAMILY?"
+
+Instructions:
+
+  1) cd ~/Library/Application\ Support/Textmate/Bundles
+  2) git clone git://github.com/tiegz/shoes-textmate-bundle.git Shoes.tmbundle

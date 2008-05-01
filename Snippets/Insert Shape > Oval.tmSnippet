@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>oval(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT})</string>
+	<key>name</key>
+	<string>Oval</string>
+	<key>uuid</key>
+	<string>532C5F04-CF13-4AC9-841F-5C86FE6C7AF3</string>
+</dict>
+</plist>
