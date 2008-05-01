@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>sub(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Sub</string>
+	<string>sub</string>
 	<key>uuid</key>
 	<string>14CAB2C3-BEE0-458C-AAEC-1C6793C1C24A</string>
 </dict>

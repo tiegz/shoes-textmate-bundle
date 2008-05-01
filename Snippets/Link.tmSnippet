@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>link(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Link</string>
+	<string>link</string>
 	<key>uuid</key>
 	<string>777B3589-D8A5-4B86-90A8-038B4F583D3A</string>
 </dict>

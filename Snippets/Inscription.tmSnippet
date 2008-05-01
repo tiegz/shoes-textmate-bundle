@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>inscription(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Inscription</string>
+	<string>inscription</string>
 	<key>uuid</key>
 	<string>BA92F593-78EF-41E6-BDF9-E69244F9B9E8</string>
 </dict>

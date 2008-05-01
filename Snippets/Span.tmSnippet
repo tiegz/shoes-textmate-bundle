@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>span(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Span</string>
+	<string>span</string>
 	<key>uuid</key>
 	<string>BD3F0616-DF79-4CFE-893D-E8EBF8588D16</string>
 </dict>

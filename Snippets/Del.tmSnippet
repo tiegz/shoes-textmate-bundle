@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>del(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Del</string>
+	<string>del</string>
 	<key>uuid</key>
 	<string>07DDE0AE-0E85-4A54-8C6E-94C82FEAA567</string>
 </dict>

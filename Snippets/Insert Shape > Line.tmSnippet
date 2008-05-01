@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>line(${1:X}, ${2:Y}, ${3:X2}, ${4:Y2})</string>
 	<key>name</key>
-	<string>Line</string>
+	<string>line</string>
 	<key>uuid</key>
 	<string>4277EF87-982B-4D8E-BD09-870DE564F7CB</string>
 </dict>

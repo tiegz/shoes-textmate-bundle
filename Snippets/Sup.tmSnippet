@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>sup(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Sup</string>
+	<string>sup</string>
 	<key>uuid</key>
 	<string>E865903A-75E1-4E80-9D08-413969F1A725</string>
 </dict>

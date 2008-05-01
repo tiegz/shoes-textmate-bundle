@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>para(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Para</string>
+	<string>para</string>
 	<key>uuid</key>
 	<string>6450B3C6-6030-4E47-BFC6-7075ABC51639</string>
 </dict>

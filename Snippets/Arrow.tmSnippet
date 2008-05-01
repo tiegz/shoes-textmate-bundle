@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>arrow(${1:X}, ${2:Y}, ${3:SIZE})</string>
 	<key>name</key>
-	<string>Arrow</string>
+	<string>arrow</string>
 	<key>uuid</key>
 	<string>71F806B0-8E87-4F91-B61E-A93E5EE3EFB5</string>
 </dict>

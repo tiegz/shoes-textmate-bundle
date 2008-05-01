@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>oval(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT})</string>
 	<key>name</key>
-	<string>Oval</string>
+	<string>oval</string>
 	<key>uuid</key>
 	<string>5ECB0FBD-3F4A-4499-BE4E-E41A4FBFA907</string>
 </dict>

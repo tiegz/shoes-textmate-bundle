@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># check http://en.wikipedia.org/wiki/X11_color_names for a full list
+${1:white/black/red/yellow/blue/etc}(${1:R}, ${2:R}, ${3:R}, ${4:[ALPHA]})</string>
+	<key>name</key>
+	<string>other</string>
+	<key>uuid</key>
+	<string>D436D70E-4F6A-4567-8EBA-BC5C1C4806ED</string>
+</dict>
+</plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>banner(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Banner</string>
+	<string>banner</string>
 	<key>uuid</key>
 	<string>0F3302A5-8685-4F8D-B795-E92CAF08105C</string>
 </dict>

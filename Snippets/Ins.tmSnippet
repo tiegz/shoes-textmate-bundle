@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>ins(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Ins</string>
+	<string>ins</string>
 	<key>uuid</key>
 	<string>8C440F31-DE54-4C3E-A078-7BA9B7CB50FE</string>
 </dict>

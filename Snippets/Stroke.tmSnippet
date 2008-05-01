@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>stroke(${1:PATTERN})</string>
 	<key>name</key>
-	<string>Stroke</string>
+	<string>stroke</string>
 	<key>uuid</key>
 	<string>0AF9D0F7-BDAA-4B09-A3DB-79E8E26756F5</string>
 </dict>

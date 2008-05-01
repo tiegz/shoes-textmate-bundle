@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>click { |button, x, y|
+  $0
+}</string>
+	<key>name</key>
+	<string>click</string>
+	<key>uuid</key>
+	<string>63E4F764-78C8-4D2C-85C0-C7DFEA15DF9A</string>
+</dict>
+</plist>

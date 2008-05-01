@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>fill(${1:PATTERN})</string>
 	<key>name</key>
-	<string>Fill</string>
+	<string>fill</string>
 	<key>uuid</key>
 	<string>94AA5056-D4D9-4904-8714-8B4A290608BF</string>
 </dict>

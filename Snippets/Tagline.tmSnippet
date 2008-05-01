@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>tagline(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Tagline</string>
+	<string>tagline</string>
 	<key>uuid</key>
 	<string>6A40F900-E51A-4E51-95C0-F02E53B6D9EF</string>
 </dict>

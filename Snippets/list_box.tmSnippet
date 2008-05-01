@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>list_box(:items =&gt; ${1:["shoes", "coat", "hat"]})</string>
+	<key>name</key>
+	<string>list_box</string>
+	<key>uuid</key>
+	<string>6577BA55-F74E-435B-B074-53C7FA80099C</string>
+</dict>
+</plist>

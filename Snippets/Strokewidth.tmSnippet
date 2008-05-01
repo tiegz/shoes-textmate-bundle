@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>strokewidth(${1:1})</string>
 	<key>name</key>
-	<string>Strokewidth</string>
+	<string>strokewidth</string>
 	<key>uuid</key>
 	<string>81D29564-FA98-4297-BB93-74BA87ACDF3C</string>
 </dict>

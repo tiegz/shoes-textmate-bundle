@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>edit_box(${1:[styles]}) {
+  $0
+}</string>
+	<key>name</key>
+	<string>edit_box (w/block)</string>
+	<key>uuid</key>
+	<string>3E927038-A2C0-4FDC-9408-EF173BBC2BB0</string>
+</dict>
+</plist>

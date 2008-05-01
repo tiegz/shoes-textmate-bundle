@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.clipboard()</string>
+	<key>name</key>
+	<string>self.clipboard</string>
+	<key>uuid</key>
+	<string>E881A1FC-8626-40A9-867C-736470F55320</string>
+</dict>
+</plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT})</string>
 	<key>name</key>
-	<string>Rect</string>
+	<string>rect</string>
 	<key>uuid</key>
 	<string>967672DD-C012-44A7-9B5A-7FB1ADCA8B64</string>
 </dict>

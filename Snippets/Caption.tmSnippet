@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>caption(${1:"string"}, ${2:[styles]})</string>
 	<key>name</key>
-	<string>Caption</string>
+	<string>caption</string>
 	<key>uuid</key>
 	<string>4BBA8B68-1324-4B6C-B30F-8AD0606D4751</string>
 </dict>
